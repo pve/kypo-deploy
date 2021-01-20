@@ -4,3 +4,4 @@ You will shell into this, then pick up after `pipenv install`.
 
 See also https://docs.crp.kypo.muni.cz/installation-guide/base-infrastructure/
 
+![diagram](/kypo deploy.png)
