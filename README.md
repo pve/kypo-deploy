@@ -1,6 +1,8 @@
 # kypo-deploy
 Dockerfile for machine to deploy Kypo Base Infrastructure.
-You will shell into the container, then pick up the instructions after `pipenv install`.
+You will shell into the container, most easily done by
+`docker run -it petersgriddle/kypo-deploy`
+then pick up the instructions after `pipenv install`.
 
 See also https://docs.crp.kypo.muni.cz/installation-guide/base-infrastructure/
 for the instructions
